@@ -2,7 +2,7 @@
   <mj-head>
     <mj-attributes>
       <mj-all padding="0px"></mj-all>
-      <mj-class name="preheader" color="#000000" font-size="11px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0px"></mj-class>
+      <mj-class name="preheader" color="#000000" font-size="9px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0px"></mj-class>
       <mj-image src=""></mj-image>
     </mj-attributes>
     <mj-style inline="inline">a { text-decoration: none; color: inherit; }</mj-style>
@@ -26,10 +26,31 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="100px 0">
     </mj-section>
-    <mj-section background-color="#1e3e4c" padding="10px">
-      <mj-column vertical-align="top" width="100%">
-        <mj-text align="center" color="#ffffff" font-size="20px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px">Here goes some text</mj-text>
+    <mj-section background-color="#1e3e4c" padding="10px 100px">
+      <mj-column width="100%" padding="2px 0px 10px 0px">
+        <mj-text align="center" color="#ffffff" font-size="15px"font-family="Lato, Helvetica, Arial, sans-serif">Visita nuestras redes sociales</mj-text>
       </mj-column>
+      <mj-column>
+        <mj-image src="https://i.ibb.co/cJ51Wb4/fb.png" alt="fb" width="30px" padding="0 2px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.ibb.co/5W55QVH/tw.png" alt="tw" width="30px"></mj-image>
+      </mj-column>  
+      <mj-column>
+        <mj-image src="https://i.ibb.co/34bSqb1/ins.png" alt="ins" width="30px"></mj-image>
+      </mj-column>
+      <mj-column>   
+        <mj-image src="https://i.ibb.co/Gczmnry/lin.png" alt="lin" width="30px"></mj-image>
+      </mj-column>
+      <mj-column>   
+        <mj-image src="https://i.ibb.co/mDrR9z0/you.png"alt="you" width="30px"></mj-image>
+      </mj-column> 
+      <mj-column>  
+        <mj-image src="https://i.ibb.co/ZJ4T63W/play.png" alt="play" width="30px"></mj-image>
+      </mj-column>
+      <mj-column>   
+        <mj-image src="https://i.ibb.co/rky1ZC4/apps.png" alt="apps" width="30px"></mj-image>
+      </mj-column> 
     </mj-section>
   </mj-body>
 </mjml>
