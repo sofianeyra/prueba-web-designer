@@ -19,10 +19,21 @@
     <mj-section background-color="#ffffff" padding-top="20px">
       <mj-column width="100%">
         <mj-image src="https://i.ibb.co/pXd52WY/795996f589107e6.jpg" alt="banner" width="600px" padding="0px 0px"></mj-image>
-        <mj-text align="center" color="#FAB701" font-size="25px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px"><strong> Hola mundo
+        <mj-text align="center" color="#ff7200" font-size="25px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px"><strong> Hola mundo
         </mj-text>
         <mj-text align="center" color="#EC652D" font-size="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 30px"></mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="20px">
+      <mj-column width="100%">
+        <mj-text align="center" color="#ff7200" font-size="25px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px"><strong>BENEFICIOS</mj-text>
+      </mj-column>
+      <mj-column padding="10px">
+        <mj-image src="https://i.ibb.co/6sdHtjd/money-bag.png" alt="money" width="100px"></mj-image>
+      </mj-column>
+      <mj-column padding="10px">
+        <mj-image src="https://i.ibb.co/6ZPYq0Q/teamwork.png" alt="money" width="100px"></mj-image>
+      </mj-column> 
     </mj-section>
     <mj-section background-color="#ffffff" padding="100px 0">
     </mj-section>
