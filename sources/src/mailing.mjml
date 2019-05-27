@@ -16,7 +16,7 @@
         <mj-text align="left" color="#1e3e4c" font-size="20px" font-family="Lato, Helvetica, Arial, sans-serif" padding="18px 0px"> <strong>Tenemos una promoción para ti.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding-top="20px">
+    <mj-section background-color="#ffffff" padding-top="0px">
       <mj-column width="100%">
         <mj-image src="https://i.ibb.co/b3dnwrn/viajeros4.jpg" alt="banner" width="600px" padding="0px 0px"></mj-image>
         <mj-text align="center" color="#ff7200" font-size="25px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 0px 0px 0px"><strong>Hola Viajero</mj-text>
@@ -25,6 +25,19 @@
         </mj-text>
         <mj-text align="center" color="#EC652D" font-size="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 30px"></mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="20px">
+      <mj-column padding="0px">
+        <mj-image src="https://i.ibb.co/hVZyfKf/one.png" alt="step1" width="50px"></mj-image>
+        <mj-text align="center" color="#1e3e4c" font-size="17px" font-family="Lato, Helvetica, Arial, sans-serif"> Tu referido ingresa tu correo en los comentarios <br> al
+        momento de la compra.</mj-text>
+      </mj-column>
+      <mj-column padding="0px">
+        <mj-image src="https://i.ibb.co/jVCbRcK/two.png" alt="step2" width="50px"></mj-image>
+      </mj-column> 
+      <mj-column padding="0px">
+        <mj-image src="https://i.ibb.co/cCq0TBZ/three.png" alt="step3" width="50px"></mj-image>
+      </mj-column> 
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="20px">
       <mj-column width="100%">
