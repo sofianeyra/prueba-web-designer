@@ -23,20 +23,24 @@
         <mj-text align="center" color="#1e3e4c" font-size="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px">Ahora puedes <strong>ganar dinero</strong> refiriendo a tus
         amigos. <br><br> Cada vez que uno de tus amigos use tu correo al comprar en Turismoi se te otorgará el <strong>10% </strong>del monto de compra.
         </mj-text>
-        <mj-text align="center" color="#EC652D" font-size="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 30px"></mj-text>
+        <mj-text align="center" color="#1e3e4c" font-size="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 30px"><strong>Solo debe seguir estos pasos:</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="20px">
       <mj-column padding="0px">
         <mj-image src="https://i.ibb.co/hVZyfKf/one.png" alt="step1" width="50px"></mj-image>
-        <mj-text align="center" color="#1e3e4c" font-size="17px" font-family="Lato, Helvetica, Arial, sans-serif"> Tu referido ingresa tu correo en los comentarios <br> al
+        <mj-text align="center" color="#1e3e4c" font-size="15px" font-family="Lato, Helvetica, Arial, sans-serif"><br>Tu referido ingresa tu <br>correo en los comentarios <br> al
         momento de la compra.</mj-text>
       </mj-column>
       <mj-column padding="0px">
+
         <mj-image src="https://i.ibb.co/jVCbRcK/two.png" alt="step2" width="50px"></mj-image>
+        <mj-text align="center" color="#1e3e4c" font-size="15px" font-family="Lato, Helvetica, Arial, sans-serif"><br>Tu referido concluye el proceso de compra.</mj-text>
       </mj-column> 
       <mj-column padding="0px">
         <mj-image src="https://i.ibb.co/cCq0TBZ/three.png" alt="step3" width="50px"></mj-image>
+        <mj-text align="center" color="#1e3e4c" font-size="15px" font-family="Lato, Helvetica, Arial, sans-serif"><br>Turismoi se pone en <br>contacto contigo para <br>acordar el medio
+        de pago de <br>tu ganancia.</mj-text>
       </mj-column> 
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="20px">
