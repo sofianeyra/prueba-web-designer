@@ -8,21 +8,20 @@
     <mj-style inline="inline">a { text-decoration: none; color: inherit; }</mj-style>
   </mj-head>
   <mj-body background-color="#e0f2ff">
-    <mj-section background-color="#ffffff" padding="0px 0">
+    <mj-section background-color="#ffffff" padding="0px">
       <mj-column width="33%">
-        <mj-image src="https://i.ibb.co/stQBkwN/logo-turismoi-big.png" alt="logo" width="150px" padding="5px 0"></mj-image>
+        <mj-image src="https://i.ibb.co/stQBkwN/logo-turismoi-big.png" alt="logo" width="150px" padding="10px "></mj-image>
       </mj-column>
       <mj-column width="66%">
-        <mj-text align="left" color="#1e3e4c" font-size="20px" font-family="Lato, Helvetica, Arial, sans-serif" padding="18px 0px">Here goes some text</mj-text>
+        <mj-text align="left" color="#1e3e4c" font-size="20px" font-family="Lato, Helvetica, Arial, sans-serif" padding="18px 0px"> <strong>Tenemos una promoción para ti.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="20px">
       <mj-column width="100%">
-        <mj-image src="https://i.ibb.co/pXd52WY/795996f589107e6.jpg" alt="banner" width="600px" padding="0px 0px"></mj-image>
-        <mj-text align="center" color="#ff7200" font-size="25px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px"><strong>Hola Viajero
-        </mj-text>
-        <mj-text align="center" color="#1e3e4c" font-size="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px">Ahora puedes ganar dinero refiriendo a tus <br>
-        amigos viajeros. 
+        <mj-image src="https://i.ibb.co/b3dnwrn/viajeros4.jpg" alt="banner" width="600px" padding="0px 0px"></mj-image>
+        <mj-text align="center" color="#ff7200" font-size="25px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 0px 0px 0px"><strong>Hola Viajero</mj-text>
+        <mj-text align="center" color="#1e3e4c" font-size="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px">Ahora puedes <strong>ganar dinero</strong> refiriendo a tus
+        amigos. <br><br> Cada vez que uno de tus amigos use tu correo al comprar en Turismoi se te otorgará el <strong>10% </strong>del monto de compra.
         </mj-text>
         <mj-text align="center" color="#EC652D" font-size="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 30px"></mj-text>
       </mj-column>
@@ -33,12 +32,20 @@
       </mj-column>
       <mj-column padding="10px">
         <mj-image src="https://i.ibb.co/6sdHtjd/money-bag.png" alt="money" width="100px"></mj-image>
+        <mj-text align="center" color="#1e3e4c" font-size="17px" font-family="Lato, Helvetica, Arial, sans-serif"><strong>SIN MONTO MÍNIMO</mj-text>
+        <mj-text align="center" color="#1e3e4c" font-size="17px" font-family="Lato, Helvetica, Arial, sans-serif">No hay límite de monto.
+        Ganas el 10% con cualquier monto de compra que hace tu referido.</mj-text>
       </mj-column>
       <mj-column padding="10px">
         <mj-image src="https://i.ibb.co/6ZPYq0Q/teamwork.png" alt="money" width="100px"></mj-image>
+        <mj-text align="center" color="#1e3e4c" font-size="17px" font-family="Lato, Helvetica, Arial, sans-serif"><strong>OPORTUNIDADES ILIMITADAS</mj-text>
+        <mj-text align="center" color="#1e3e4c" font-size="17px" font-family="Lato, Helvetica, Arial, sans-serif"> Puedes recomendar a todos los viajeros que desees y acumular tus ganancias.</mj-text>
       </mj-column> 
     </mj-section>
-    <mj-section background-color="#ffffff" padding="100px 0">
+    <mj-section background-color="#ffffff" padding="20px 0">
+      <mj-column>
+      <mj-text align="center" font-size="15px">El usuario referido no debe haber efectuado compras anteriormente <br> en Turismoi. Dudas o consultas comunicarse con ventas@turismoi.pe <br> o por nuestro chat en línea.</mj-text>
+      </mj-column>
     </mj-section>
     <mj-section background-color="#1e3e4c" padding="10px 100px">
       <mj-column width="100%" padding="2px 0px 10px 0px">
