@@ -1,0 +1,23 @@
+{
+  "name": "prueba-web-designer",
+  "version": "1.0.0",
+  "description": "La prueba consiste en crear un mailing para que nuestros compradores frecuentes\r puedan recomendar comprar en Turismoi a un amigo. A cambio el cliente que recomendo la compra gana el 10% de la compra de su contacto relacionado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofianeyra/prueba-web-designer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofianeyra/prueba-web-designer/issues"
+  },
+  "homepage": "https://github.com/sofianeyra/prueba-web-designer#readme",
+  "dependencies": {
+    "mjml": "^4.4.0-beta.2"
+  }
+}
