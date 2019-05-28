@@ -35,7 +35,7 @@
       <mj-column padding="0px">
 
         <mj-image src="https://i.ibb.co/jVCbRcK/two.png" alt="step2" width="50px"></mj-image>
-        <mj-text align="center" color="#1e3e4c" font-size="15px" font-family="Lato, Helvetica, Arial, sans-serif"><br>Tu referido concluye el proceso de compra.</mj-text>
+        <mj-text align="center" color="#1e3e4c" font-size="15px" font-family="Lato, Helvetica, Arial, sans-serif"><br>Tu referido concluye <br> el proceso de compra.</mj-text>
       </mj-column> 
       <mj-column padding="0px">
         <mj-image src="https://i.ibb.co/cCq0TBZ/three.png" alt="step3" width="50px"></mj-image>
@@ -64,31 +64,13 @@
       <mj-text align="center" font-size="15px">El usuario referido no debe haber efectuado compras anteriormente <br> en Turismoi. Dudas o consultas comunicarse con ventas@turismoi.pe <br> o por nuestro chat en línea.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#1e3e4c" padding="10px 100px">
-      <mj-column width="100%" padding="2px 0px 10px 0px">
-        <mj-text align="center" color="#ffffff" font-size="15px"font-family="Lato, Helvetica, Arial, sans-serif">Visita nuestras redes sociales</mj-text>
+    <mj-section background-color="#1e3e4c" padding="1px 0px">
+      <mj-column width="100%" padding="0px 0px 10px 0px">
+        <mj-text align="center" color="#ffffff" font-size="17px"font-family="Lato, Helvetica, Arial, sans-serif">Visita nuestras redes sociales</mj-text>
+      </mj-column >
+     <mj-column padding="0px 0px 0px 0px">
+        <mj-image src="https://i.ibb.co/YtpZ1XN/social-icons.jpg" alt="fb" width="250px"padding="0 2px"></mj-image>
       </mj-column>
-      <mj-column>
-        <mj-image src="https://i.ibb.co/cJ51Wb4/fb.png" alt="fb" width="30px" padding="0 2px"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image src="https://i.ibb.co/5W55QVH/tw.png" alt="tw" width="30px"></mj-image>
-      </mj-column>  
-      <mj-column>
-        <mj-image src="https://i.ibb.co/34bSqb1/ins.png" alt="ins" width="30px"></mj-image>
-      </mj-column>
-      <mj-column>   
-        <mj-image src="https://i.ibb.co/Gczmnry/lin.png" alt="lin" width="30px"></mj-image>
-      </mj-column>
-      <mj-column>   
-        <mj-image src="https://i.ibb.co/mDrR9z0/you.png"alt="you" width="30px"></mj-image>
-      </mj-column> 
-      <mj-column>  
-        <mj-image src="https://i.ibb.co/ZJ4T63W/play.png" alt="play" width="30px"></mj-image>
-      </mj-column>
-      <mj-column>   
-        <mj-image src="https://i.ibb.co/rky1ZC4/apps.png" alt="apps" width="30px"></mj-image>
-      </mj-column> 
-    </mj-section>
+        </mj-section>
   </mj-body>
 </mjml>
