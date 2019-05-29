@@ -1,0 +1,109 @@
+@media (min-width: 320px) and (max-width:480px) {
+    .content {
+        margin-left:3%; 
+        width: 94%;
+    }
+    .logo {
+        margin-left: 25%;
+        width: 50%;
+    }
+    h2 {
+        font-size: 12px;
+        margin-top: -1%;
+        text-align: center;
+        margin-left: 0;
+    }
+    .orange {
+        margin-top: 1%;
+        font-size: 20px;
+    }
+    .gray {
+        width: 100%;
+        margin-left: 0;
+    }
+    .step1,.step2, .step3 {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .step3 {
+        float: left;
+    }
+    .conditions {
+        padding-top: 1%;
+        font-size: 13px;
+    }
+    .social-icons {
+        margin-top: -15px;
+        margin-left: 5%;
+    }
+}
+@media (max-width: 768px){
+    .content {
+        width: 94%;
+        margin-left: 3%;
+    }
+    .promotion-steps {
+        font-size: 17px;
+    }
+    .benefits {
+        font-size: 23px;
+    }
+    .conditions {
+        font-size: 22px;
+    }
+    .gray {
+        width: 100%;
+        margin-left: 0;
+    }
+    .title {
+        font-size: 17px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .content {
+        width: 94%;
+        margin-left: 3%;
+    }
+    h2 {
+        margin-top: -5%;
+        font-size: 40px;
+    }
+    .orange {
+        font-size: 36px;
+    }
+    .text {
+        font-size: 30px;
+    }
+    .step1, .step2, .step3 {
+        font-size: 28px;
+    }
+    .step1 {
+        width: 35%;
+    }
+    .step2{
+        width:33%;
+    }
+    .step3 {
+        width: 30%;
+    }
+    .benefits {
+        font-size: 35px;
+    }
+    .title1 {
+        font-size: 40px;
+        padding-top: 50px;
+    }
+    .conditions {
+        font-size: 26px;
+    }
+    .white {
+        font-size: 30px;
+    }
+    .title {
+        font-size: 25px;
+        width: 100%;
+        margin-left: 0;
+    }
+}
+
