@@ -80,13 +80,7 @@ ul li {
 .step3 {
     float: right;
 }
-.item1, .item2 {
-    width: 50%;
-}
-.item2 {
-    margin-top:-27.3%; 
-    margin-left: 50%;
-}
+
 .social-icons {
     margin-top: -1%;
     margin-left: 33%;
